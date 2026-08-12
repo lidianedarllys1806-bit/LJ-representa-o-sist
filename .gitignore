@@ -1,0 +1,7 @@
+node_modules/
+.next/
+lj.db
+lj.db-shm
+lj.db-wal
+*.log
+.env.local
